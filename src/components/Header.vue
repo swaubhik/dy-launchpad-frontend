@@ -4,10 +4,10 @@
             <h1>IFO: Initial Farm Offerings</h1>
             <p>Buy new tokens launching on Chain</p>
             <div class="header__buttons">
-                <button class="btn">How does it work?</button>
-                <button class="btn-primary">Participate Now
-                    <right-arrow class="arrow" />
-                </button>
+                <Button msg="How does it work ?" class="btn" />
+                <Button msg="Participate now" class="btn-primary">
+                    <right-arrow class="icon" />
+                </Button>
             </div>
         </div>
     </header>
@@ -15,8 +15,9 @@
 
 <script>
 import rightArrow from '../assets/icons/right-arrow.vue'
+import Button from './Button.vue'
 export default {
-    components: { rightArrow },
+    components: { rightArrow, Button },
 }
 </script>
 
@@ -35,33 +36,6 @@ export default {
     margin-top: 5rem;
 }
 
-.btn {
-    padding: 1rem 2rem;
-    color: #FFFFFF;
-    background: rgba(0, 0, 0, 0.5);
-    border: 1px solid #FFFFFF;
-    backdrop-filter: blur(1px);
-    border-radius: 10px;
-}
-
-.btn-primary {
-    background-color: var(--color-primary);
-    border-radius: 10px;
-    border-color: var(--color-primary);
-    padding: 1rem 2rem;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-.arrow {
-    height: 1.2rem;
-    width: 3rem;
-    margin-left: 1rem;
-}
-
-
-
 /* mobile */
 @media (max-width: 768px) {
     .header__logo {
@@ -70,11 +44,6 @@ export default {
 
     .header__buttons {
         flex-direction: column;
-    }
-
-    .btn {
-        margin-bottom: 4rem;
-        padding: 1rem 3.5rem;
     }
 }
 </style>     
