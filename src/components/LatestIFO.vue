@@ -83,12 +83,6 @@ export default {
     background-repeat: no-repeat;
     padding: 0 8rem;
 
-    .heading {
-        font-size: 2rem;
-        font-weight: 700;
-        margin-bottom: 5rem;
-    }
-
     .card__component {
         position: relative;
         padding: 310px 2rem 2rem 2rem;
