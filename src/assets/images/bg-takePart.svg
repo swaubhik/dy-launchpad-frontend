@@ -1,0 +1,124 @@
+    <svg width="1440" height="1709" viewBox="0 0 1440 1709" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <g filter="url(#filter0_f_770_2)">
+            <ellipse cx="757.623" cy="751.509" rx="432.299" ry="400.821" fill="url(#paint0_linear_770_2)"
+                fill-opacity="0.25" />
+        </g>
+        <g opacity="0.5" filter="url(#filter1_d_770_2)">
+            <mask id="mask0_770_2" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="18" y="281" width="1459"
+                height="1420">
+                <rect x="18" y="281" width="1458.39" height="1419.59" rx="4" fill="url(#paint1_radial_770_2)"
+                    fill-opacity="0.75" />
+            </mask>
+            <g mask="url(#mask0_770_2)">
+                <path
+                    d="M1461 -645.544C1422.4 -613.919 1346.26 -476.174 1350.54 -178.197C1355.9 194.275 1472.68 427.362 1501.88 778.751C1523.43 1038.1 1520.37 1687.68 1388.99 1960.59"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M1408.42 -568.68C1369.82 -537.055 1293.68 -399.311 1297.97 -101.334C1303.32 271.138 1420.1 504.226 1449.3 855.614C1470.85 1114.96 1467.79 1764.54 1336.41 2037.45"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M1355.03 -495.053C1316.43 -463.429 1240.29 -325.684 1244.58 -27.7069C1249.93 344.765 1366.71 577.852 1395.91 929.241C1417.46 1188.59 1414.4 1838.17 1283.02 2111.08"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M1300.9 -424.635C1262.3 -393.011 1186.16 -255.266 1190.44 42.7111C1195.8 415.183 1312.58 648.27 1341.78 999.659C1363.32 1259.01 1360.27 1908.58 1228.88 2181.5"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M1246.05 -357.61C1207.44 -325.985 1131.31 -188.241 1135.59 109.736C1140.94 482.208 1257.72 715.296 1286.92 1066.68C1308.47 1326.04 1305.41 1975.61 1174.03 2248.52"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M1190.45 -294.173C1151.85 -262.548 1075.71 -124.803 1079.99 173.174C1085.35 545.646 1202.13 778.733 1231.33 1130.12C1252.88 1389.47 1249.82 2039.05 1118.44 2311.96"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M1134.11 -234.69C1095.5 -203.065 1019.37 -65.321 1023.65 232.656C1029 605.128 1145.79 838.216 1174.98 1189.6C1196.53 1448.96 1193.47 2098.53 1062.09 2371.44"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M1076.99 -179.624C1038.39 -147.999 962.251 -10.2546 966.533 287.723C971.885 660.195 1088.67 893.282 1117.87 1244.67C1139.41 1504.02 1136.36 2153.6 1004.97 2426.51"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M1019.09 -129.532C980.485 -97.907 904.348 39.8372 908.63 337.815C913.983 710.286 1030.77 943.374 1059.96 1294.76C1081.51 1554.11 1078.45 2203.69 947.072 2476.6"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M960.39 -85.157C921.786 -53.532 845.649 84.2122 849.931 382.19C855.284 754.661 972.068 987.749 1001.26 1339.14C1022.81 1598.49 1019.76 2248.06 888.373 2520.97"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M900.901 -47.3914C862.298 -15.7664 786.161 121.978 790.443 419.955C795.795 792.427 912.58 1025.51 941.776 1376.9C963.325 1636.25 960.267 2285.83 828.884 2558.74"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M840.647 -17.4265C802.044 14.1984 725.907 151.943 730.189 449.92C735.542 822.392 852.326 1055.48 881.522 1406.87C903.071 1666.22 900.013 2315.79 768.63 2588.7"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M779.722 3.25317C741.118 34.8781 664.981 172.622 669.263 470.6C674.616 843.071 791.4 1076.16 820.596 1427.55C842.145 1686.9 839.087 2336.47 707.705 2609.38"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M718.327 12.7883C679.723 44.4133 603.587 182.158 607.869 480.135C613.221 852.607 730.006 1085.69 759.202 1437.08C780.751 1696.43 777.693 2346.01 646.31 2618.92"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M656.819 8.91333C618.216 40.5383 542.079 178.283 546.361 476.26C551.713 848.732 668.498 1081.82 697.694 1433.21C719.243 1692.56 716.185 2342.13 584.802 2615.04"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M595.858 -11.0476C557.255 20.5773 481.118 158.322 485.4 456.299C490.752 828.771 607.537 1061.86 636.733 1413.25C658.282 1672.6 655.224 2322.17 523.841 2595.08"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M536.468 -49.7273C497.864 -18.1023 421.727 119.642 426.009 417.619C431.362 790.091 548.146 1023.18 577.342 1374.57C598.891 1633.92 595.833 2283.49 464.451 2556.4"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M469.909 -119.663C431.305 -88.0379 355.169 49.7064 359.451 347.684C364.803 720.155 481.588 953.243 510.784 1304.63C532.333 1563.98 529.275 2213.56 397.892 2486.47"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M412.878 -175.249C374.274 -143.624 298.137 -5.87956 302.419 292.098C307.772 664.57 424.556 897.657 453.752 1249.05C475.301 1508.4 472.243 2157.97 340.861 2430.88"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M354.14 -219.311C315.536 -187.686 239.399 -49.9421 243.681 248.035C249.034 620.507 365.818 853.595 395.014 1204.98C416.563 1464.33 413.505 2113.91 282.123 2386.82"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M294.089 -251.563C255.485 -219.938 179.348 -82.194 183.63 215.783C188.983 588.255 305.767 821.343 334.963 1172.73C356.512 1432.08 353.454 2081.66 222.072 2354.57"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M233.151 -272.026C194.548 -240.401 118.411 -102.657 122.693 195.32C128.045 567.792 244.83 800.88 274.026 1152.27C295.575 1411.62 292.517 2061.19 161.134 2334.1"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M171.737 -280.944C133.134 -249.319 56.9967 -111.575 61.2788 186.402C66.6314 558.874 183.416 791.962 212.612 1143.35C234.161 1402.7 231.103 2052.27 99.7203 2325.19"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M110.226 -278.772C71.6219 -247.147 -4.51504 -109.403 -0.232949 188.574C5.11967 561.046 121.904 794.134 151.1 1145.52C172.649 1404.87 169.591 2054.45 38.2086 2327.36"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M48.917 -266.094C10.3133 -234.47 -65.8236 -96.7253 -61.5415 201.252C-56.1889 573.724 60.5954 806.811 89.7915 1158.2C111.34 1417.55 108.282 2067.12 -23.1 2340.04"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+                <path
+                    d="M-11.8916 -243.579C-50.4953 -211.954 -126.632 -74.2096 -122.35 223.768C-116.998 596.239 -0.213163 829.327 28.9829 1180.72C50.5318 1440.07 47.4738 2089.64 -83.9086 2362.55"
+                    stroke="#00ADE8" stroke-opacity="0.75" stroke-width="2" />
+            </g>
+        </g>
+        <defs>
+            <filter id="filter0_f_770_2" x="-24.6758" y="0.6875" width="1564.6" height="1501.64"
+                filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+                <feGaussianBlur stdDeviation="175" result="effect1_foregroundBlur_770_2" />
+            </filter>
+            <filter id="filter1_d_770_2" x="14" y="281" width="1466.39" height="1427.59" filterUnits="userSpaceOnUse"
+                color-interpolation-filters="sRGB">
+                <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                    result="hardAlpha" />
+                <feOffset dy="4" />
+                <feGaussianBlur stdDeviation="2" />
+                <feComposite in2="hardAlpha" operator="out" />
+                <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+                <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_770_2" />
+                <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_770_2" result="shape" />
+            </filter>
+            <linearGradient id="paint0_linear_770_2" x1="757.623" y1="350.687" x2="204.701" y2="945.223"
+                gradientUnits="userSpaceOnUse">
+                <stop offset="0.0171287" stop-color="#00ADE8" />
+                <stop offset="0.860412" stop-color="#00E8A2" />
+            </linearGradient>
+            <radialGradient id="paint1_radial_770_2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                gradientTransform="translate(747.196 990.794) rotate(90) scale(709.794 729.196)">
+                <stop stop-color="white" stop-opacity="0" />
+                <stop offset="0.442708" stop-color="white" />
+                <stop offset="0.763704" stop-color="white" stop-opacity="0" />
+            </radialGradient>
+        </defs>
+    </svg>
