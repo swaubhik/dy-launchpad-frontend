@@ -1,8 +1,6 @@
 <template>
     <section class="take__part">
-        <div class="heading">
-            <h2 class="heading">How to <span class="text-primary">Take Part?</span></h2>
-        </div>
+        <h2 class="heading">How to <span class="text-primary">Take Part?</span></h2>
         <div class="container">
             <div class="progress">
                 <div class="gradient">1</div>
@@ -61,7 +59,7 @@ export default {
 
 <style lang="scss" scoped>
 .take__part {
-    margin-top: 4rem;
+    margin-top: 8rem;
     padding: 2rem 8rem;
     position: relative;
     background: url('../assets/images/bg-takePart.svg');
@@ -227,7 +225,11 @@ export default {
 
 // mobile
 @media (max-width: 768px) {
+    .take__part {
+        padding: 0 1rem;
+    }
     .container {
+        position: relative;
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 1fr 1fr 1fr 1fr;
