@@ -22,10 +22,23 @@ export default {
 </script>
 
 <style>
+header {
+    padding: 0 8rem;
+}
+
+/* mobile */
+@media (max-width: 768px) {
+    header {
+        padding: 0;
+    }
+
+}
+
 .header__logo {
-    background-image: url('../assets/images/bg-header.webp');
+    background-image: url('../assets/images/bg-header.svg');
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
+    background-position: center;
     padding: 5rem 4rem;
 }
 
