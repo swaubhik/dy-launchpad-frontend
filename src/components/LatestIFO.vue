@@ -1,12 +1,12 @@
 <template>
-    <div class="latest__ifo">
-        <h1 class="heading">Latest <span class="text-primary">IFO</span></h1>
+    <section class="latest__ifo">
+        <h2 class="heading">Latest <span class="text-primary">IFO</span></h2>
         <div class="card__component">
             <div class="label__wrapper">
                 <span class="label right bold">Coming Soon</span>
             </div>
             <h2>Lorem ipsum</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempor,</p>
+            <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempor,</span>
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempor, justo vel dapibus hendrerit,
                 dolor enim feugiat purus, quis congue eros
@@ -62,7 +62,7 @@
                 <Button msg="Lorem ipsum Project Site" class="btn" />
             </div>
         </div>
-    </div>
+    </section>
 </template>
 
 <script>
@@ -74,33 +74,40 @@ export default {
 };
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 .latest__ifo {
-    margin: 10rem 10rem;
-    background-image: url("../assets/images/Component.webp");
+    margin-top: 10rem;
+    background-image: url("../assets/images/bg-latestIfo.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    overflow: visible;
-
-
+    padding: 0 8rem;
 
     .heading {
         font-size: 2rem;
         font-weight: 700;
-        margin-bottom: 1rem;
+        margin-bottom: 5rem;
     }
 
     .card__component {
-        margin: 5rem;
         position: relative;
-        padding: 4rem 2rem;
+        padding: 310px 2rem 2rem 2rem;
         background: linear-gradient(180deg, #000000 28.13%, rgba(0, 0, 0, 0.5) 66.15%);
         border: 1px solid #5dfdb0;
         backdrop-filter: blur(1px);
         border-radius: 10px;
         overflow: hidden;
-        min-height: 100vh;
+        min-height: 1500px;
+        max-width: 820px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
+        @media (max-width: 768px) {
+            margin: 0 1rem;
+        }
+
 
         p {
             font-weight: 300;
@@ -177,28 +184,18 @@ export default {
                 flex-direction: column;
             }
         }
-
-        .buttons {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
-            align-items: center;
-            margin-top: 2rem;
-        }
     }
-}
 
-// mobile
-@media (max-width: 768px) {
-    .latest__ifo {
-        margin: 0;
+    .buttons {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 2rem;
+        flex-wrap: wrap;
     }
-}
 
-// tablet
-@media (min-width: 768px) and (max-width: 1024px) {
-    .latest__ifo {
-        margin: 0;
+    @media screen and (max-width: 768px) {
+        padding: 0;
     }
+
 }
 </style>
