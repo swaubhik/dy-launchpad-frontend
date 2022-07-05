@@ -3,7 +3,7 @@
         <hr>
         <div class="footer__menu">
             <ul>
-                <li class="footer__head">App</li>
+                <li class="footer__head">About</li>
                 <li><a href="#">Contact</a></li>
                 <li><a href="#">Brand</a></li>
                 <li><a href="#">Blog</a></li>
@@ -39,39 +39,46 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss" scoped>
 .footer {
+    margin: 0 8rem;
     position: relative;
-    bottom: 0;
     text-align: center;
+    align-items: center;
     display: flex;
-    justify-content: space-between;
-}
+    justify-content: space-around;
 
-hr {
-    position: absolute;
-    top: 0;
-    width: 100%;
-    height: 1px;
-    border: 0;
-    background: #fff;
-}
+    @media screen and (max-width: 768px) {
+        margin: 0 1rem;
+    }
 
-.footer__menu {
-    list-style: none;
-    padding: 2rem 4rem;
-    margin-top: 2rem;
-}
 
-li {
-    margin-bottom: 10px;
-    list-style: none;
-}
 
-.footer__head {
-    color: var(--color-primary);
-    font-size: 20px;
-    text-transform: uppercase;
+    hr {
+        position: absolute;
+        top: 0;
+        width: 100%;
+        height: 1px;
+        border: 0;
+        background: #fff;
+    }
+
+    .footer__menu {
+        list-style: none;
+        padding: 2rem 4rem;
+        margin-top: 2rem;
+    }
+
+    li {
+        margin-bottom: 10px;
+        list-style: none;
+    }
+
+    .footer__head {
+        color: var(--color-primary);
+        font-size: 20px;
+        text-transform: uppercase;
+    }
 }
 
 /* mobile screen */
@@ -89,6 +96,7 @@ li {
 @media (min-width: 768px) and (max-width: 1024px) {
     .footer {
         flex-direction: row;
+        flex-wrap: wrap;
     }
 }
 </style>
