@@ -3,6 +3,7 @@
         <Header />
         <main>
             <LatestIFO />
+            <TakePart />
         </main>
         <Footer />
     </div>
@@ -12,8 +13,10 @@
 import Header from './Header.vue';
 import Footer from './Footer.vue';
 import LatestIFO from './LatestIFO.vue';
+import TakePart from './TakePart.vue';
+
 export default {
-    components: { Header, Footer, LatestIFO }
+    components: { Header, Footer, LatestIFO, TakePart, }
 }
 </script>
 
@@ -24,17 +27,16 @@ export default {
     --color-primary: rgba(0, 232, 162, 1);
     --color-secondary: rgba(0, 173, 232, 1);
     margin: 0;
-    padding: 0 8rem;
+    padding: 0;
     box-sizing: border-box;
     font-family: 'Nunito', sans-serif;
     font-style: normal;
     background-color: black;
     color: white;
+}
 
-    /* mobile */
-    @media (max-width: 768px) {
-        padding: 0;
-    }
+* {
+    box-sizing: border-box;
 }
 
 a {
