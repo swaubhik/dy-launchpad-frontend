@@ -4,6 +4,7 @@
         <main>
             <LatestIFO />
             <TakePart />
+            <FAQ />
         </main>
         <Footer />
     </div>
@@ -14,9 +15,10 @@ import Header from './Header.vue';
 import Footer from './Footer.vue';
 import LatestIFO from './LatestIFO.vue';
 import TakePart from './TakePart.vue';
+import FAQ from './FAQ.vue';
 
 export default {
-    components: { Header, Footer, LatestIFO, TakePart, }
+    components: { Header, Footer, LatestIFO, TakePart, FAQ }
 }
 </script>
 
@@ -51,6 +53,12 @@ a {
     border: 1px solid #FFFFFF;
     backdrop-filter: blur(1px);
     border-radius: 10px;
+}
+
+.heading {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 5rem;
 }
 
 .btn-primary {
